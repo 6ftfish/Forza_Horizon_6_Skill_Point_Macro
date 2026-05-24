@@ -17,7 +17,7 @@ To stop the macro, press ']' or the stop button
 
 
 <img width="272" height="543" alt="image" src="https://github.com/user-attachments/assets/3a275a17-57d7-4f49-a52a-cad1351f8ff6" />
-
+You can adjust the timing to optimise for your races.
 
 <img width="1411" height="620" alt="image" src="https://github.com/user-attachments/assets/ee61713c-6410-4b64-b90a-9e088678f20e" />
 Each super wheelspin costs 30 skillpoints per subaru
