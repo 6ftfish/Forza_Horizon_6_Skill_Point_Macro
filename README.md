@@ -13,7 +13,10 @@ How to use the macro:
 3. Right click the script, open with AutoHotkey
 4. Ensure you are tabbed into the game, press the 'start' button or the ']' key on your keyboard to start the macro.
 4. let it run and carry on with your day job
-To stop the macro, press ']' or the stop button.
+To stop the macro, press ']' or the stop button
+
+Each super wheelspin costs 30 skillpoints per subaru
+
 <img width="272" height="543" alt="image" src="https://github.com/user-attachments/assets/3a275a17-57d7-4f49-a52a-cad1351f8ff6" />
 
 
