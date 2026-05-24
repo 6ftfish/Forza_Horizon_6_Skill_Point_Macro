@@ -1,4 +1,4 @@
-# Forza Horizon 6 AFK Skill Point/Money Macro
+<img width="1569" height="1112" alt="image" src="https://github.com/user-attachments/assets/f4bcb79d-7e99-4022-8293-850dfbc881a7" /># Forza Horizon 6 AFK Skill Point/Money Macro
 Hey! I put together this simple AutoHotkey v2 script to fully automate the AFK Super Wheelspin and Skill Point farm in Forza Horizon 6.
 This Macro is based on the skill point video by OiAvogadro https://www.youtube.com/watch?v=kI6SW2x1vMg
 
@@ -15,12 +15,13 @@ How to use the macro:
 4. let it run and carry on with your day job
 To stop the macro, press ']' or the stop button
 
-Each super wheelspin costs 30 skillpoints per subaru
 
 <img width="272" height="543" alt="image" src="https://github.com/user-attachments/assets/3a275a17-57d7-4f49-a52a-cad1351f8ff6" />
 
 
 <img width="1411" height="620" alt="image" src="https://github.com/user-attachments/assets/ee61713c-6410-4b64-b90a-9e088678f20e" />
+Each super wheelspin costs 30 skillpoints per subaru
+<img width="1328" height="1031" alt="image" src="https://github.com/user-attachments/assets/0512d02e-9975-4254-b53c-bef8a08c2f96" />
 
 Enjoy :)
 
